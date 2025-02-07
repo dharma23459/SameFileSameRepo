@@ -1,6 +1,6 @@
 def factorial(n):
     """
-    Calculate the fact.
+    calculate fact.
     
     :param n: Non-negative integer
     :return: Factorial of n
