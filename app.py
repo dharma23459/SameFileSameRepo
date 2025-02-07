@@ -1,6 +1,6 @@
 def factorial(n):
     """
-    Calculate the factorial of a number using recursion.
+    Calculate the fact.
     
     :param n: Non-negative integer
     :return: Factorial of n
