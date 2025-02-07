@@ -1,5 +1,6 @@
 def factorial(n):
     """
+
     real fact.
     
     :param n: Non-negative integer
