@@ -2,6 +2,7 @@ def factorial(n):
     """
 
     real fact.
+    dev added
     
     :param n: Non-negative integer
     :return: Factorial of n
