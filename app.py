@@ -16,7 +16,7 @@ def factorial(n):
 # Input from user
 number = int(input("Enter a number to calculate its factorial: "))
 
-# Calculate and display the result
+# display
 result = factorial(number)
 print(f"The factorial of {number} is: {result}")
 
